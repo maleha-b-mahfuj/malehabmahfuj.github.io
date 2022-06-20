@@ -1,0 +1,31 @@
+html{
+    font-family: "Roboto Flex";
+}
+
+body{
+    color:brown;
+    margin: 0 auto;
+    background-color: beige;
+    padding: 0 50px 50px 20px;
+    border: 5px blue
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+
+p {
+    font-size: 25px;
+    width: 800px;
+    border:5px blue
+}
+
+ul {
+    font-size: 25px;
+}
